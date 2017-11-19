@@ -1,0 +1,42 @@
+
+=============  HOST:  ==========
+
+           local_ip:  2600:3c00::f03c:91ff:fe35:9677
+         local_port:  49588
+          remote_ip:  2600:3c03::f03c:91ff:fe3e:a216
+        remote_port:  80
+
+=======  CONNECTION:  ==========
+
+       http_version:  
+          http_code:  302
+       http_connect:  000
+       num_connects:  1
+      num_redirects:  0
+       redirect_url:  https://advocatehost.com/index.php
+
+=============  FILE:  ==========
+
+       content_type:  text/html; charset=utf-8
+ filename_effective:  /dev/null
+     ftp_entry_path:  
+      size_download:  0
+        size_header:  442
+       size_request:  80
+        size_upload:  0
+     speed_download:  0.000
+       speed_upload:  0.000
+  ssl_verify_result:  0
+      url_effective:  http://AdvocateHost.com/
+
+===  TIME BREAKDOWN:  ==========
+
+    time_appconnect:  0.000
+       time_connect:  0.050
+    time_namelookup:  0.004
+   time_pretransfer:  0.050
+      time_redirect:  0.000
+ time_starttransfer:  0.186
+                      ----------
+         time_total:  0.186
+
