@@ -8,7 +8,6 @@
 \n
 =======  CONNECTION:  ==========\n
 \n
-       http_version:  %{http_version}\n
           http_code:  %{http_code}\n
        http_connect:  %{http_connect}\n
        num_connects:  %{num_connects}\n
